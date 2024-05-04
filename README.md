@@ -17,5 +17,5 @@ Me chamo Bianca, Tenho 26 anos, estou atualmente cursando bacharelado em Engenha
 
 
  
- * Entre outros *Cursos* que breve serão CONCLUIDOS✔️ se Deus permitir, Ainda sou nova nesse ramo,são muitas linguagens de programação que ainda não conheço. Até porque na minha graduação que estou cursando meu proximo Semestre é todo de Programação, ja dei uma olhadinha na grade curricular do curso, então muita coisa ainda estar por vir, mas tudo que envolve programação e tecnologia tenho interesse de aprender e estou sempre dentro!! Haha😎.
+ * Entre outros *Cursos* que breve serão CONCLUIDOS✔️ se Deus permitir, Ainda sou nova nesse ramo,são muitas linguagens de programação que ainda não conheço. Até porque na minha graduação que estou cursando meu proximo Semestre é todo de Programação, ja dei uma olhadinha na grade curricular do curso, então muita coisa ainda estar por vir, mas tudo que envolve programação e tecnologia tenho interesse de aprender e estou sempre dentro!!😎.
 
