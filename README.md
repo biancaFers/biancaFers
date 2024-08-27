@@ -2,7 +2,7 @@
 
 Olá,❤️
 
-Me chamo Bianca, Tenho 26 anos, estou atualmente cursando bacharelado em Engenharia de Software, Sou de Goiás. Tenho um grande interesse por tecnologia e tenho o objetivo de me tornar uma programadora futuramente. Estou sempre buscando aprender novas habilidades, Sou comprometida com meu crescimento profissional na área da tecnologia.
+Me chamo Bianca, Tenho 27 anos, estou atualmente cursando bacharelado em Engenharia de Software, Sou de Goiás. Tenho um grande interesse por tecnologia e tenho o objetivo de me tornar uma programadora futuramente. Estou sempre buscando aprender novas habilidades, Sou comprometida com meu crescimento profissional na área da tecnologia.
 
 
 
