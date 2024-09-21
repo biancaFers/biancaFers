@@ -2,7 +2,7 @@
 
 Olá,❤️
 
-Me chamo Bianca, Tenho 27 anos, estou atualmente cursando bacharelado em Engenharia de Software, Sou de Goiás. Tenho um grande interesse por tecnologia e tenho o objetivo de me tornar uma programadora futuramente. Estou sempre buscando aprender novas habilidades, Sou comprometida com meu crescimento profissional na área da tecnologia.
+Me chamo Bianca, Tenho 27 anos, estou atualmente cursando bacharelado em Engenharia de Software, Sou de Goiás. Tenho um grande interesse por tecnologia e tenho o objetivo de me tornar uma programadora. Estou sempre buscando aprender novas habilidades, Sou comprometida com meu crescimento profissional na área da tecnologia.
 
 
 
@@ -15,3 +15,8 @@ Me chamo Bianca, Tenho 27 anos, estou atualmente cursando bacharelado em Engenha
 
 ## Habilidades💖 
 [![My Skills](https://skillicons.dev/icons?i=github,py)](https://skillicons.dev)
+
+## Estatísticas do Github💜
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=biancaFers&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+## Linguagens + utilizadas💜
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=biancaFers&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
