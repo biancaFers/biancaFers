@@ -13,3 +13,5 @@ Me chamo Bianca, Tenho 27 anos, estou atualmente cursando bacharelado em Engenha
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bianca_silvaa.sz?igsh=ODFyZHJja3ZreGE3)
 
 
+## Habilidades💖 
+[![My Skills](https://skillicons.dev/icons?i=github,py)](https://skillicons.dev)
